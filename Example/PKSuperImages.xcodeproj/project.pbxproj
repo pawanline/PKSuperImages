@@ -45,7 +45,7 @@
 		A58AE1096C6672128B1239E4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D140436D658E3C53D3317B02 /* Pods-PKSuperImages_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PKSuperImages_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PKSuperImages_Tests/Pods-PKSuperImages_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		EFB7C3AB766C51107C10E1F6 /* Pods_PKSuperImages_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PKSuperImages_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FB6E43B027C4783D0AFC5FFC /* PKSuperImages.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PKSuperImages.podspec; path = ../PKSuperImages.podspec; sourceTree = "<group>"; };
+		FB6E43B027C4783D0AFC5FFC /* PKSuperImages.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PKSuperImages.podspec; path = ../PKSuperImages.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FC84ECC55C4A9E7047AF2DF0 /* Pods-PKSuperImages_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PKSuperImages_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PKSuperImages_Example/Pods-PKSuperImages_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
