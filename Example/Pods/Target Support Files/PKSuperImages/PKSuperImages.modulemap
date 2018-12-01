@@ -1,0 +1,6 @@
+framework module PKSuperImages {
+  umbrella header "PKSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

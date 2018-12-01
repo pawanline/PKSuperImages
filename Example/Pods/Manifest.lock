@@ -1,0 +1,16 @@
+PODS:
+  - PKSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - PKSuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  PKSuperImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PKSuperImages: ae6b16a2b57dff8885edf734381909a62944ecc4
+
+PODFILE CHECKSUM: 5d635e9fb506568b970d09471c78d1cb8e9787bb
+
+COCOAPODS: 1.5.3

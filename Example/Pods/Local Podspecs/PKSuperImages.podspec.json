@@ -1,0 +1,22 @@
+{
+  "name": "PKSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of PKSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pawanline/PKSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pawanline": "pawan@appster.in"
+  },
+  "source": {
+    "git": "https://github.com/pawanline/PKSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PKSuperImages/Classes/**/*"
+}
